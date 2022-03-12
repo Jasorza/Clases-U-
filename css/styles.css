@@ -1,0 +1,24 @@
+h1, p, h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table, th {
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+td {
+    border: 1px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.btn1 {
+    color: #4CAF50;
+}
+.tx1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.td1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
